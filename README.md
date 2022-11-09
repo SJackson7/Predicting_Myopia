@@ -25,7 +25,7 @@ For this exercise, I was tasked to utilize unsupervised machine learning to dete
 ### Myopia Cluster Findings
 The following observations are for myopia clusters after data preparation, reduction, and cluster analysis:
 * The optimal number of clusters appears to be 3, therefore patients can be clustered in 3 groups.
-* Some clear clusters formed after performing K-Means, however accuracy would benefit from a largest dataset as well as additional testing and training using the above models since the clusters have some scattering.
+* Some clear clusters formed after performing K-Means, however accuracy would benefit from a larger dataset as well as additional testing and training using the above models since the clusters have some scattering.
 
 ## References
 Reduced dataset from [Orinda Longitudinal Study of Myopia conducted by the US National Eye Institute](https://clinicaltrials.gov/ct2/show/NCT00000169)
